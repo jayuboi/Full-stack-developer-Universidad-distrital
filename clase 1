@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T00:49:29.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="6YbrtmE0wU-DXjHcd7je" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T00:55:03.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Wa6uqRX_-jXEnXFjytwr" version="21.0.6" type="github">
   <diagram name="Página-1" id="mWMVACgK42sVmMUsRfl5">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="laEzzsy5AIxmuBH3uLRY-3" value="tarea" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="1">
-          <mxGeometry x="60" y="110" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="laEzzsy5AIxmuBH3uLRY-6" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Algoritmo formulario para operar los valores&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="15" width="690" height="40" as="geometry" />
         </mxCell>
         <mxCell id="laEzzsy5AIxmuBH3uLRY-7" value="Kevin Felipe Alvarado Carranza I&amp;nbsp; Full Stack Developer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laEzzsy5AIxmuBH3uLRY-9" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="70" width="810" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="laEzzsy5AIxmuBH3uLRY-10" value="Usuario" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="laEzzsy5AIxmuBH3uLRY-9">
+          <mxGeometry x="20" width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="laEzzsy5AIxmuBH3uLRY-18" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="laEzzsy5AIxmuBH3uLRY-10">
+          <mxGeometry x="30" y="30" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
